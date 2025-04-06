@@ -1,0 +1,90 @@
+@import url("./assets/inconsalata.css");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Inconsolata", sans-serif !important;
+}
+
+.customized .form-label {
+  margin-inline-start: 0.3rem;
+  font-size: 1.1rem;
+}
+.customized *[name] {
+  font-size: 1.1rem;
+}
+.customized .form-check {
+  display: flex;
+  align-items: center;
+}
+.customized .form-check .form-check-label {
+  font-size: 1.1rem;
+  margin-inline-start: 0.5rem;
+  cursor: pointer;
+}
+.customized .form-check input {
+  width: 20px;
+  height: 20px;
+}
+
+.divider {
+  position: relative;
+}
+.divider.x {
+  width: 100%;
+  margin-block: 1rem;
+}
+
+.w-fit {
+  width: fit-content;
+}
+
+.progress-text {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--cui-info);
+}
+.progress-container {
+  position: relative;
+  padding-top: 2.5rem;
+  padding-bottom: 1rem;
+}
+.progress-text::before {
+  content: "Progress: ";
+}
+.progress-text::after {
+  content: "%";
+}
+.progress-container .progress-text.position-absolute {
+  top: 5px;
+  left: 0.5rem;
+}
+
+.close-absolute {
+  top: 1rem;
+  right: 1rem;
+}
+
+.signature {
+  border: 1px solid var(--cui-info-border-subtle);
+  border-radius: 0.1rem;
+  padding: 0.5rem 0.3rem;
+  margin-block: 0.2rem;
+}
+.file_name{
+  color: var(--cui-info);
+
+}
+.index {
+  padding-inline: 0.3rem;
+}
+.index::after {
+  content: "%";
+}
+.index.low {
+  color: var(--cui-danger);
+}
+
+.index.high {
+  color: var(--cui-success);
+}

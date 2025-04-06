@@ -1,0 +1,43 @@
+{
+    "server": {
+        "ip": "127.0.0.1",
+        "username": "root",
+        "password": "*p0bQ44B4h"
+    },
+    "enable_debug_log": true,
+    "workspace_path": "garage/",
+    "err_statement_key_words": [
+        "failed",
+        "error",
+        "unable",
+        "404",
+        "500",
+        "501",
+        "200"
+    ],
+    "err_key_words": {
+        "keywords": [
+            "fail",
+            "error",
+            "unable"
+        ],
+        "http_codes": [
+            "400",
+            "401",
+            "403",
+            "404",
+            "500",
+            "502",
+            "503",
+            "504"
+        ]
+    },
+    "negative_threshold": 50.0,
+    "model_name": "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
+    "curr_batch_size": 256,
+    "num_signatures": 5,
+    "prog_err_extract": 30,
+    "prog_err_analyze": 85,
+    "prog_err_summary": 90,
+    "prog_err_results": 100
+}

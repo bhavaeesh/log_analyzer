@@ -1,0 +1,7 @@
+tensorflow
+Flask-Cors
+flask_pymongo
+accelerate
+python-dateutil
+transformers
+chardet

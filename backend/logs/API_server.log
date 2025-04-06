@@ -1,0 +1,587 @@
+127.0.0.1 - - [27/Feb/2025 17:42:22] "GET /progress/container_1445144423722_0023_01_000001_workspace_18_02_25_15_48_46 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:42:25] "[35m[1mGET /signatures/container_1445144423722_0023_01_000001_workspace_18_02_25_15_48_46 HTTP/1.1[0m" 500 -
+ * Detected change in 'E:\\log_analysis\\backend\\api_server.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+{"Internal Server Error": "'_id'"}
+127.0.0.1 - - [27/Feb/2025 17:42:57] "[35m[1mGET /signatures/container_1445144423722_0023_01_000001_workspace_18_02_25_15_48_46 HTTP/1.1[0m" 500 -
+ * Detected change in 'E:\\log_analysis\\backend\\api_server.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+{"Internal Server Error": "'text'"}
+127.0.0.1 - - [27/Feb/2025 17:43:59] "[35m[1mGET /signatures/container_1445144423722_0023_01_000001_workspace_18_02_25_15_48_46 HTTP/1.1[0m" 500 -
+ * Detected change in 'E:\\log_analysis\\backend\\lib\\mongodb_adapter.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+127.0.0.1 - - [27/Feb/2025 17:44:47] "GET /signatures/container_1445144423722_0023_01_000001_workspace_18_02_25_15_48_46 HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9090
+ * Running on http://10.199.193.84:9090
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+127.0.0.1 - - [27/Feb/2025 17:45:58] "OPTIONS /analyse/logbundle HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:45:58] "POST /analyse/logbundle HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:46:30] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:46:35] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:46:40] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:46:45] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:46:50] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:46:55] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:00] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:02] "[33mGET /progress/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/Feb/2025 17:47:05] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:10] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:15] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:20] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:25] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:30] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:35] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:40] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:45] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:50] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:47:55] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:48:00] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:48:05] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:48:10] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:48:15] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:48:20] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:48:53] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:49:53] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:50:53] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:51:53] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:52:53] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:53:53] "GET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1" 200 -
+ * Detected change in 'E:\\log_analysis\\backend\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+127.0.0.1 - - [27/Feb/2025 17:54:36] "OPTIONS /analyse/logbundle HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:54:36] "POST /analyse/logbundle HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 17:54:53] "[35m[1mGET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1[0m" 500 -
+ * Detected change in 'E:\\log_analysis\\backend\\api_server.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+127.0.0.1 - - [27/Feb/2025 18:01:11] "OPTIONS /analyse/logbundle HTTP/1.1" 200 -
+127.0.0.1 - - [27/Feb/2025 18:01:11] "POST /analyse/logbundle HTTP/1.1" 200 -
+{"Internal Server Error": "[WinError 183] Cannot create a file when that file already exists: 'garage/container_1445144423722_0020_01_000001_workspace_27_02_25_18_01_11'"}
+127.0.0.1 - - [27/Feb/2025 18:01:11] "[35m[1mPOST /analyse/logbundle HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9090
+ * Running on http://10.199.193.84:9090
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+127.0.0.1 - - [28/Feb/2025 16:27:12] "OPTIONS /analyse/logbundle HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:27:12] "POST /analyse/logbundle HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:27:54] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:27:59] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:28:04] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:28:09] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:28:15] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:28:20] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:28:25] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:28:30] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:28:40] "[35m[1mGET /progress/container_1445144423722_0020_01_000001_workspace_27_02_25_17_45_58 HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Feb/2025 16:28:53] "[33mGET /progress/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [28/Feb/2025 16:31:05] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:10] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:16] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:20] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:25] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:30] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:36] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:41] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:46] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:51] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:31:56] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:01] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:06] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:11] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:16] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:21] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:26] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:31] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:32:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:33:38] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:33:40] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:33:45] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:47:51] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:47:56] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:01] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:06] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:11] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:16] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:21] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:26] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:32] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:37] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:42] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:47] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:52] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:48:57] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:49:02] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:49:07] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:49:12] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:49:18] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:49:23] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:49:27] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:49:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:50:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:51:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:51:56] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:02] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:07] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:12] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:17] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:22] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:27] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:32] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:37] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:42] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:46] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:52:57] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:02] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:07] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:12] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:17] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:22] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:27] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:32] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:37] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:42] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:47] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:53:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:06] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:11] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:16] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:22] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:27] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:32] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:39] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:42] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:47] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:52] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:54:57] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:55:02] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:55:07] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:55:12] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:55:17] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:55:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:56:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:57:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:58:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 16:59:54] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:00:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:01:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:02:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:03:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:04:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:05:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:06:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:07:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:08:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:09:54] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:10:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:11:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:12:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:13:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:14:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:15:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:16:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:17:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:18:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:19:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:20:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:21:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:22:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:23:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:24:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:25:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:26:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:27:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:28:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:29:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:30:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:31:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:32:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:33:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:34:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:35:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:36:55] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:37:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:38:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:39:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:40:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:41:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:42:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:43:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:44:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:45:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:46:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:47:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:48:54] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:49:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:50:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:51:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:52:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:53:54] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:54:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:55:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:56:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:57:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:58:55] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 17:59:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:00:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:01:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:02:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:03:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:04:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:05:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:06:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:07:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:08:55] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:09:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:10:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:11:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:12:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:13:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:14:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:15:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:16:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:17:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2025 18:18:53] "GET /progress/container_1445175094696_0003_01_000001_workspace_28_02_25_16_27_12 HTTP/1.1" 200 -
+10.199.209.45 - - [01/Mar/2025 10:05:35] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:05:35] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:05:35] "[33mPROPFIND / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:05:35] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:05:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:20] "[33mGET /Rapid7/JBoss/version-check-YCcNq4.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:20] "[33mGET /console/login/LoginForm.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET /index.htm HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET /servlet/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET %. HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET %server.policy HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET %login-config.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET %org/jboss/version.properties HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:29] "[33mGET /spiffymcgee.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /owa/auth/logon.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /exchange/logon.asp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /jbossws/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /invoker/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /jbossmq-httpil/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /status/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /administrator/manifests/files/joomla.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /administrator/language/en-GB/en-GB.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /language/en-GB/en-GB.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /joomla/administrator/manifests/files/joomla.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /joomla/administrator/language/en-GB/en-GB.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /joomla/language/en-GB/en-GB.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mPOST /.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /sysmgmt/2015/bmc/info HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /webconsole/webpages/login.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /webtools/control/main HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /index.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:30] "[33mGET /configurations.do HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /unified-console.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /rest/servicedeskapi/info HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /thisisnotavalidpath HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /login.zul HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /helpdesk/WebObjects/Helpdesk.woa HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /wordpress/wp-login.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /selfservice/index.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /version/openshift HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /sgms/login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /login.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /api/v1/get_session HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /WebInterface/login.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /owa/auth/logon.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /old/get_session HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /admin/public/index.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /session?aimGetProp=fwVersionFull HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /cgi-bin/authLogin.cgi HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /ui/login.action HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /signin.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /sgms/auth HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:31] "[33mGET /hpdm/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /api/v1/appconfiguration/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /version HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /home.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /UDataArea?plugin=com.dell.oma.webplugins.AboutWebPlugin&vid= HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /confluence HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /AHT/AHT_UI/public/js/app.min.js HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /index.php?title=Main_Page HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /login.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /rest/api/latest/application-properties HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /wordpress/feed HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /login.action HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /web/guest/home HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /portal/webclient/index.html#/home HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /jira/secure/Dashboard.jspa HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /reviews HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /opencrx-core-CRX/Login.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /rails/info/properties HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /cgi-bin/cgitest HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:32] "[33mGET /goanywhere/auth/Login.xhtml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /get_session HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /secure/Dashboard.jspa HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /wordpress HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /userportal/webpages/myaccount/login.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /rest/api/latest/serverInfo HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /user HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /mediawiki/index.php?title=Main_Page HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /jspwebshell12.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /dana-na/auth/url_admin/welcome.cgi HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /ecp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /versa/login/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /cgi-bin/welcome HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /admin_ui/mas/ent/login.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /crowd/console/login.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /SAAS/API/1.0/REST/admin/localize?patternString=errors.404,layout.copyright,layout.patentslink,layout.buildVersion HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /console/App.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /sugar_version.json HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /restapi/system HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /rapid7 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /aspera/faspex HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:33] "[33mGET /solr/#/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /CHANGELOG.txt HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /sitecore/shell/sitecore.version.xml HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /php/login.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /jspwebshell.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /info/Login.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /console/login/LoginForm.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /index.php/login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /wordpress/readme.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /PassTrixMain.cc HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /JSPWiki/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /solr/admin/info/system?wt=json HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /xmldata?item=All HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /spiffymcgee.cfm HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /spiffymcgee.nsf HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /console/faces/com_sun_web_ui/jsp/version/version_30.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /console/faces/com_sun_web_ui/jsp/version/version_4.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mGET /phpmyadmin/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:34] "[33mHEAD /index.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /api/getServices?name[]=$() HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /cgi-bin/test-cgi HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Telerik.Web.UI.WebResource.axd?type=rau HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/view-source?../../../../../../../etc/passwd HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/php.ini HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /lucee/admin/ext.applications.upload.cfm HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /cgi-bin/home.tcl HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /moveitisapi/moveitisapi.dll?action=capa HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/faxsurvey?/bin/cat%20/etc/passwd HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mTRACK / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /bb/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /README.txt HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /c99.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/scheduler/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /flex2gateway/http HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /CFIDE/adminapi/administrator.cfc HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/componentutils/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /${(%23a=@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec("echo%20vulnerable-status-determined-by-nexpose").getInputStream(),"utf-8")).(@com.opensymphony.webwork.ServletActionContext@getResponse().setHeader("X-Cmd-Response",%23a))}/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/services/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /_vti_bin/_vti_aut/author.dll HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /mifs/aad/api/v2/ping HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/portlets/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/websocket/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/awstats.pl?PluginMode=:print+"x".(1042+%2b+1099)."x"; HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /?class.classLoader.resources.cacheObjectMaxSize=foo HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.componentutils.cfcexplorer&path=../../../license.txt HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/htmlscript?../../../../../../../etc/passwd HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/servermanager/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /mifs/asfV3/api/v2/ping HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /go/add-on/business-continuity/api/cruise_config HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /fileupload/toolsAny HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /jkstatus/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /mifs/.;/services/LogService HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/htsearch?Exclude=`/etc/passwd` HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/administrator/enter.cfm?locale=../../../../../../../lib/password.properties%00en HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /serendipity/serendipity_xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /scripts/tools/newdsn.exe?driver=Microsoft%2BAccess%2BDriver%2B(*.mdb)&dsn=Web%20SQL&dbq=c:\\temp\\xyz.mdb&newdb=CREATE_DB&attr= HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/adminapi/base.cfc?wsdl HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /index.htm HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /clients/MyCRL HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /?Class.classLoader.resources.cacheObjectMaxSize=foo HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /openam/oauth2/..;/ccversion/Version HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/config.exp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/faxquery?/bin/cat%20/etc/passwd HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /struts2-rest-showcase HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /imc/fault/accessMgrServlet HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /common/index.jsf HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/adminiapi/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/administrator/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /struts2-blank/example/HelloWorld.action HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /webconsole/Controller?mode=8700&operation=1&datagrid=179&json={"ð\x9f¦\x9e":"test"} HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /cgi/login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /data/login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /conf/ssl/apache/integrity.key HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/AIR/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mHEAD http://www.google.com:80/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /flex2gateway/httpsecure HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/wizards/common/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /Orion/Login.aspx HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /${Class.forName("com.opensymphony.webwork.ServletActionContext").getMethod("getResponse",null).invoke(null,null).setHeader("X-Cmd-Response",Class.forName("javax.script.ScriptEngineManager").newInstance().getEngineByName("nashorn").eval("var%20d='';var%20i%20=%20java.lang.Runtime.getRuntime().exec('echo%20vulnerable-status-determined-by-nexpose').getInputStream();%20while(i.available())d+=String.fromCharCode(i.read());d"))}/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /phpmyadmin/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /~bin/true HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/orm/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/awstats.pl?debug=1 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /moveitisapi/moveitisapi.dll?action=capa HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /createou HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/awstats/awstats.pl?PluginMode=:print+"x".(1042+%2b+1099)."x"; HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /index_sso.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.componentutils.cfcexplorer&path=../../../../license.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/adminapi/customtags/l10n.cfm?attributes.id=test&attributes.file=../../administrator/mail/download.cfm&filename=../../lib/password.properties&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=test HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mTRACE / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /moveitisapi/moveitisapi.dll?action=capa HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/appdeployment/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/htgrep/file=index.html&hdr=/etc/passwd HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /autodiscover HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /struts2-showcase/employee/save.action HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/wizards/common/utils.cfc?method=verifyldapserver&vserver=localhost&vport=22&vstart=&vusername=&vpassword=&returnformat=json HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/f5-release HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /serendipity/xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /AdvWorks/equipment/catalog_type.asp?ProductType=|shell("c:cmd.exe")| HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /rest/v1/AccountService/Accounts HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /vpn/../vpns/cfg/smb.conf HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/administrator/enter.cfm HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /conf/ssl/apache/integrity-smartcenter.key HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /messagebroker/http HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /cgi-bin/awstats/awstats.pl?debug=1 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /CFIDE/adminapi/customtags/l10n.cfm?attributes.id=test&attributes.file=../../administrator/mail/download.cfm&filename=../lib/password.properties&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=test HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /frame?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /drupal/xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /ASPSamp/AdvWorks/equipment/catalog_type.asp?ProductType=|shell("c:cmd.exe")| HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /messagebroker/httpsecure HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /frame/config_main.do?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /bblog/xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /blazeds/messagebroker/http HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /sys?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /blogs/xmlsrv/xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /blazeds/messagebroker/httpsecure HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /admin?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /xmlsrv/xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /samples/messagebroker/http HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /page?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /xmlrpc/xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /samples/messagebroker/httpsecure HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /index?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /script/xmlrpc.php HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /lcds/messagebroker/http HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mGET /home?class.module.classLoader.URLs[-1]=0 HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /lcds/messagebroker/httpsecure HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /lcds-samples/messagebroker/http HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:35] "[33mPOST /lcds-samples/messagebroker/httpsecure HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:43] "[33mGET /mgmt/tm/ltm/pool HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:43] "[33mPOST /cgi-bin/webcgi/login HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:48] "[33mGET /lexicom HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:49] "[33mGET /lexicom HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:50] "[33mGET / HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:50] "[33mGET /portal/diag/index.jsp HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:50] "[33mGET /vltrader HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:50] "[33mGET /vltrader HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:52] "[33mGET /harmony HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:54] "[33mGET /harmony HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:08:56] "[33mGET /index.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:09:00] "[33mGET /index.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:09:00] "[33mPOST _async/AsyncResponseService HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:09:00] "[33mGET /index.html HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:09:01] "[33mPOST /EemAdminService/EemAdmin HTTP/1.1[0m" 404 -
+10.199.209.45 - - [01/Mar/2025 10:09:01] code 400, message Bad request version ("Ø1Á\x02j\x96½FÊ\x02N¯:i\x00n\x13\x02\x13\x01\x13\x03À,À+Ì©À0Ì¨À/\x00\x9fÌª\x00£\x00\x9e\x00¢À$À(À#À'\x00k\x00j\x00g\x00@À.À2À-À1À&À*À%À)À")
+10.199.209.45 - - [01/Mar/2025 10:09:01] "[31m[1m\x16\x03\x03\x01ß\x01\x00\x01Û\x03\x03Tú\x81\x00_VZð4\x1by\x9f|4\x82Ô\x81 ûN \x0eË®!_³\x0b­i]7 \x92PôÉ¸\x1a>\x97ÇÐmÄF\x00$\x01\x11\x85Ø1Á\x02j\x96½FÊ\x02N¯:i\x00n\x13\x02\x13\x01\x13\x03À,À+Ì©À0Ì¨À/\x00\x9fÌª\x00£\x00\x9e\x00¢À$À(À#À'\x00k\x00j\x00g\x00@À.À2À-À1À&À*À%À)À[0m" 400 -
+10.199.209.45 - - [01/Mar/2025 10:09:01] code 400, message Bad request version ("\x7fDÒó\x16®ê3í¨\x03o\x00n\x13\x02\x13\x01\x13\x03À,À+Ì©À0Ì¨À/\x00\x9fÌª\x00£\x00\x9e\x00¢À$À(À#À'\x00k\x00j\x00g\x00@À.À2À-À1À&À*À%À)À")
+10.199.209.45 - - [01/Mar/2025 10:09:01] "[31m[1m\x16\x03\x03\x01ß\x01\x00\x01Û\x03\x03­`Y\x9a\x9c\x81Qxo\x11\x1a>.\x1eá4\x85Ã\x1dÜ \x01L@\x84\x0b\x12\x87,¨\x89^ ¥\x1cr\x10àÀÎ4{Ql\x87Ýb\x8a\x95ü\x04Ä\x0b\x7fDÒó\x16®ê3í¨\x03o\x00n\x13\x02\x13\x01\x13\x03À,À+Ì©À0Ì¨À/\x00\x9fÌª\x00£\x00\x9e\x00¢À$À(À#À'\x00k\x00j\x00g\x00@À.À2À-À1À&À*À%À)À[0m" 400 -
+ * Detected change in 'E:\\log_analysis\\backend\\utils\\logger.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 917-126-118
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9090
+ * Running on http://10.200.34.101:9090
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 881-939-209
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9090
+ * Running on http://10.200.34.101:9090
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 989-179-523
+127.0.0.1 - - [04/Mar/2025 09:45:29] "GET /progress/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Mar/2025 09:45:33] "GET /result/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Mar/2025 09:45:39] "GET /signatures/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9090
+ * Running on http://10.40.17.127:9090
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 371-532-595
+127.0.0.1 - - [07/Mar/2025 09:23:23] "GET /progress/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2025 09:23:32] "GET /result/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2025 09:24:28] "GET /progress/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2025 09:24:31] "GET /result/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9090
+ * Running on http://10.40.17.127:9090
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 817-882-857
+127.0.0.1 - - [07/Mar/2025 11:53:45] "GET /progress/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2025 11:53:48] "GET /result/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2025 11:53:52] "GET /signatures/container_1445087491445_0002_01_000001_workspace_03_03_25_17_40_34 HTTP/1.1" 200 -
