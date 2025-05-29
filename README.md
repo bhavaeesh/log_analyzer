@@ -25,11 +25,11 @@ A web-based application that helps users analyze system logs using modern NLP te
 ## Getting Started
 ### Backend Setup
 To use the backend, install the necessary libraries using pip with the req.txt file.
-cd backend
-pip install -r req.txt
+- cd backend
+- pip install -r req.txt
 
 ### Frontend Setup
 To use the frontend, use yarn to add node modules.
-cd frontend
-yarn install
-yarn start
+- cd frontend
+- yarn install
+- yarn start
